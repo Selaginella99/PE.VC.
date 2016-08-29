@@ -53,7 +53,7 @@ Investing involves in two different important moments:
 
 ## Decision Making
 
-![Decision-Making](./Decision.Making.png)
+![Decision-Making](./week3.fig/Decision.Making.png)
 
 Decision making is the capability to understand the market and to pick up the **right opportunities**, involving in the the management company, the technical committee, and an advisory company.
 
@@ -96,7 +96,7 @@ Finding the right balance is not easy and the whole process is based on three pi
 
 ## Deal Making flow
 
-![Deal Making](./Deal.Making.png)
+![Deal Making](./week3.fig/Deal.Making.png)
 
 ## Targeting
 
@@ -157,7 +157,7 @@ Enhance the value of the company(shareholders + investor)
   
 ## The key activities to create value 
 
-![Action to Creat Value](./Action.to.create.value.1.png)
+![Action to Creat Value](./week3.fig/Action.to.create.value.1.png)
 
 # Managing and Monitoring: Covenants Usage
 
@@ -165,9 +165,9 @@ Protect the *divergence* of opinions between the entrepreneur and the PEI and th
 
 ## The typical covenants 
 
-![Action to Creat Value](./Action.to.create.value.2.png)
+![Action to Creat Value](./week3.fig/Action.to.create.value.2.png)
 
-![Action to Creat Value](./Action.to.create.value.3.png)
+![Action to Creat Value](./week3.fig/Action.to.create.value.3.png)
 
 # Exiting
 
