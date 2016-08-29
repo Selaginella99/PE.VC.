@@ -64,22 +64,22 @@ The different kinds of PE investment and the accomplishment of the company
 
 ![The taxonomy of PE clusters](./week1.fig/PE.clusters.png)
 
-## 1. Development
-Seed financing
+### 1. Development
+Seed financing - develop the business idea
 
-## 2. Startup
-Startup financing
+### 2. Startup
+Startup financing -start the business
 
-## 3. Early Growth
-Early growth financing
+### 3. Early Growth
+Early growth financing - start its growth
 
-## 4. Expansinon
-Expansion financing
+### 4. Expansinon
+Expansion financing - high rate growing
 
-## 5. Mature Age
-Replacement
+### 5. Mature Age
+Replacement - sales growth is stable
 
-## 6. Cricis
+### 6. Cricis
 Vulture financing
 
 The PEI can either be a minority or a majority shareholder:
@@ -240,6 +240,3 @@ The company needs the *strategic support* from the PEI. For the troubled company
  - Not finance the company
  - Buy the relevant and valuable assets of the company
  - Tough negociation between the court and investor
-
-
-
