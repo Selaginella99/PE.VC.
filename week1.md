@@ -144,36 +144,102 @@ In this kind of investment, the PEI may also not have any protections, due to th
 
 # Expansion Financing
 
+The expansion financing takes place in the **fastest phase** of growth of a firm to consolidate its position in the market.
+The investment is only used to sustain the (reducing) gap existing between the cash flow and money needed.
+
+- Traits:
+ - sustain the gap (cash flow ◀️▶️ ️ ️money）
+ - moderate risk 
+ - PE holds not high stake
+
+- Types of growth:
+- 1.  Internal(ororganic) 
+- 2.  External
+
+## Internal Growth
+ - Sustain the procurement of working capital + purchase new assets
+ - Not difficult for a PEI, the offer is very wide & high number of investors providing the financing
+
+## External Growth
+
+### The role of the PEI
+![Expansion financing - external growth](./week1.fig/Expansion.financing.1.png)
+
+### Two ways of getting the injection of money
+- Direct way - the PEI invests in the venture-backed company, from which it gets shares and the company has to get enough money to carry on the M&A
+- Indirect way  - expensive 
+ - 1. Build a Special Purpose Vehicle (SPV) 
+ - 2. Collect money from the banking system
+
 ![Expansion financing - external growth](./week1.fig/Expansion.financing.png)
+
 
 # Replacement Financing
 
-Three kinds of operations 
-- 1. Leverage Buyout (LBO)
-- 2. Private Investment in Public Equity (PIPE)
-- 3. Corporate Governance (CG) Deals
+Replacement financing takes place in the **mature age** of a company and the role of the PEI is that of replacing an existing shareholder.
 
+- Traits:
+ - Face strategic decisions, linked to governance, status, or corporate finance decisions
+ - Moderate risks, linked to the quality of the strategic process
+
+- Three kinds of operations 
+ - 1. Leverage Buyout (LBO)
+ - 2. Private Investment in Public Equity (PIPE)
+ - 3. Corporate Governance (CG) Deals
 
 ## Leverage Buyout (LBO)
 
+LBO is very commonly used, especially in the Anglo-Saxon world, where they account for 45%.
 
 ![Leverage buyout](./week1.fig/Leverage.buyout.png)
 
+- Relevant Cash Flow
+- Low D/E ratio
+- Assets that can be easily be sold on the market
 
 ## Private Investment in Public Equity (PIPE)
 
+- Traits
+ - Buy a minority stake
+ - Sell it to anonther potential shareholder
+ - The profit mechanism is not related to the stock exchange
+ - To be the biggest sharehloder
+ - Very aggressive
+ 
 ## Corporate Governance (CG) Deals
 
+- Traits
+ - Manage the redesign of the corporate governance
+ - Not derive from financial needs of the company.
 
 # Vulture Financing
 
-Two deals
-- 1. Restructuring financing (or turnaround) 
-- 2. Distressed financing
+Vulture financing takes place in the final stage of a company’s life cycle, when it enters its decline phase or, worse, a crisis.
+
+- Traits
+ - Sustain the financial gap between the decline of growth
+ - Lauhch a survival plan
+ - High risks
+ - PEI fully understand the field
+
+- Two deals
+ - 1. Restructuring financing (or turnaround) 
+ - 2. Distressed financing
 
 ## Restructuring financing 
 
-
+The company needs the *strategic support* from the PEI. For the troubled company, the PEI is
+- A financer 
+- An advisor
+ - A very strong hands-on approachhe 
+ - A majority stake in the equity of the company
+ 
 ## Distressed financing
+
+- Traits
+ - Not finance the company
+ - Buy the relevant and valuable assets of the company
+ - Tough negociation between the court and investor
+
 
 
