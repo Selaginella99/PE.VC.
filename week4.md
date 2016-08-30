@@ -8,7 +8,7 @@ the value of the company in which it is investing to decide to buy either *newly
 
 Two moments are related to the generation of IRR:
 - Time 0: minimize EV
-- Time n: maximize EV
+- Time N: maximize EV
 
 ## A Balance Sheet in company valuation
 
@@ -148,7 +148,7 @@ The venture capital method (VCM) focuses on the relation among
 
 ## Step 5: The Value of Newly Issued Shares
 
-> ![VCM step 5](./week4.fig/VCM.5.png) 
+![VCM step 5](./week4.fig/VCM.5.png) 
 
 
 # Launching Your Own Startup: Suggestions
@@ -160,7 +160,7 @@ The venture capital method (VCM) focuses on the relation among
 - A wide spread interest in alternative investments
 - A need for growth to enhance the GDP
 
-## Rules of a Well-Organized Sturtupper
+## Rules of a Well-Organized Startupper
 
 - 1. Commitment, hard work, and passion
 - 2. Right team
